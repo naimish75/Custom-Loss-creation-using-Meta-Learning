@@ -8,7 +8,6 @@ The project will utilize a variety of datasets for training and evaluation, incl
 - ImageNet
 - CIFAR-100
 - MNIST
-- A custom dataset of [describe any custom data you plan to use]
 
 ## Project Goals
 - Develop a meta-learning framework for dynamic loss function optimization.
